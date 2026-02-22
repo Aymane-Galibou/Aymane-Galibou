@@ -38,9 +38,11 @@ Passionate **MERN Stack Developer** with a focus on building robust, scalable we
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymane-Galibou&show_icons=true&theme=tokyonight&count_private=true" alt="Aymane's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Aymane-Galibou&show_icons=true&theme=tokyonight&count_private=true" alt="Aymane's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Galibou&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="192px" />
+  <br/>
+
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Aymane-Galibou&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
