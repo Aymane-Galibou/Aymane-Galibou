@@ -36,18 +36,28 @@ Passionate **MERN Stack Developer** with a focus on building robust, scalable we
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 Analytical Insights & Mastery</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Aymane-Galibou&show_icons=true&theme=tokyonight&count_private=true" alt="Aymane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api?username=Aymane-Galibou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" alt="Aymane's Stats" />
   
-  <br/>
-
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Aymane-Galibou&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Aymane-Galibou&layout=compact&theme=tokyonight&hide_langs=html,css&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Galibou&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Galibou&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Generative_AI_%26_LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-FastAPI_%7C_Next.js_%7C_Docker-066F24?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymane-Galibou&theme=tokyonight" width="100%" />
+</p>>
 
 ---
 
