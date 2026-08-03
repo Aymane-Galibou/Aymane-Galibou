@@ -12,13 +12,14 @@
 
 ### 🌟 About Me
 
-Passionate **MERN Stack Developer** with a focus on building robust, scalable web applications. I am currently pursuing an advanced degree in **Data Science & Artificial Intelligence** 🧠. This hybrid background allows me to bridge the gap between high-performance user interfaces and intelligent predictive engines. I thrive on transforming raw data into smart, interactive user experiences. ⚡
+Passionate **MERN Stack Developer** with a focus on building robust, scalable web applications. I am currently pursuing an advanced degree in **Data Science & Artificial Intelligence** 🧠. This hybrid background allows me to bridge the gap between high-performance user interfaces and intelligent predictive engines. I thrive on transforming raw data into smart, interactive user experiences, and increasingly on shipping full end-to-end systems — from model to API to deployed container. ⚡
 
 - 🌍 I'm based in **Morocco** 🇲🇦
 - 🖥️ See my portfolio at [Galibou Portfolio](http://galibouportfolio.vercel.app/)
 - ✉️ Contact me at **aymanegalibou1@gmail.com**
-- 🚀 Working on **Machine and Deep Learning Projects**
+- 🚀 Working on **Machine and Deep Learning Projects**, including an **IoT-driven smart irrigation system** combining real-time sensor streaming, time-series data, and predictive modeling
 - 🧠 Currently mastering **Deep Learning & Computer Vision**
+- 🐳 Deploying and self-hosting production services with **Docker Compose & Coolify**
 - 👥 Looking to collaborate on **Real-world AI & Data Science Projects**
 
 ---
@@ -31,8 +32,11 @@ Passionate **MERN Stack Developer** with a focus on building robust, scalable we
 #### 🤖 Data Science & AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
+#### ⚙️ Backend & Real-Time Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+
 #### 🗄️ Database & DevOps
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -40,24 +44,18 @@ Passionate **MERN Stack Developer** with a focus on building robust, scalable we
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aymane-Galibou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" alt="Aymane's Stats" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymane-Galibou&layout=compact&theme=tokyonight&hide_langs=html,css&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Galibou&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Aymane-Galibou&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Aymane-Galibou&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-Generative_AI_%26_LLMs-blue?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-FastAPI_%7C_Next.js_%7C_Docker-066F24?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymane-Galibou&theme=tokyonight" width="100%" />
-</p>>
 
 ---
 
